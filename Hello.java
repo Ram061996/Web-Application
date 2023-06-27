@@ -1,4 +1,4 @@
 public class Hello{
 
-Sysout("File Updated")
+System.out.println("File Updated")
 }
